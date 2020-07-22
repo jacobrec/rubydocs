@@ -1,0 +1,4 @@
+* RubyDocs
+A watered down google docs. Basically, I wanted to be able to edit a
+note from multiple computers. This allows realtime collaberation from
+anyone at any time.
